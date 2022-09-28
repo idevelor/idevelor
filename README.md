@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @idevelor
-- 👀 I’m interested in help people become ios developers
+- 👀 I’m interested in help people from brazil become ios developers
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
